@@ -1,0 +1,10 @@
+name: Dragons
+version: 1.0 ALPHA
+authors: [Arkasher, DevBlocks]
+main: org.dragons.devarka.Main
+commands:
+    start:
+    setdragon:
+    setspawn:
+    setlobby:
+    setbloco:

@@ -1,0 +1,26 @@
+#MiniGame desenvolvido por Arkasher e DevBlocks.
+#A distribuição é expressamente proibida.
+#Versão do plugin: 1.0 ALPHA
+#Bug's podem ocorrer.
+#Configuracao do plugin abaixo.
+
+#Prefix que ira aparecer na frente de todas as mensagens do plugin.
+Prefix: "&3[Dragons]"
+
+#Nome do mapa da partida.
+Mapa: "Default"
+
+#Numero maximo de dragoes que pode spawnar a cada partida.
+Dragoes_Maximos: 2
+
+#Numero de players que sera necessario para a partida iniciar.
+Players_Para_Iniciar: 2
+
+#Tempo que ira ser contado a partir de quando tiver os players minimos para a partida iniciar (segundos).
+Tempo_Lobby: 60
+
+#Tempo que o jogo ira demorar para finalizar se nao houver vencedor (segundos).
+Tempo_Jogo: 900
+
+#Servidor que os players serao teleportados quando sairem da partida.
+Servidor_De_FallBack: "lobby"
